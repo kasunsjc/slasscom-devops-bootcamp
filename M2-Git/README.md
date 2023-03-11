@@ -143,3 +143,26 @@ git checkout <branch>
 
 Gitflow is a branching model that was first published and made popular by Vincent Driessen at nvie. It was designed around the project release. This means that there is a `master` branch that always holds the production-ready code and a `develop` branch that always holds the latest code that has been approved for release. The `master` branch is the only branch that should be deployed to production. The `develop` branch is the branch that should be deployed to s
 
+![gitflow](./assets/gitflow-hotfix-branch-diagram.jpg)
+
+### Github Flow
+
+Github Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This workflow is simpler than a typical Gitflow workflow. It is based on the idea that all feature development should take place in a branch instead of the `master` branch. It is also based on the idea that the `master` branch should be deployable at any time.
+
+![githubflow](./assets/github-flow-branching-model.jpeg)
+
+### Gitlab Flow
+
+Gitlab Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This workflow is simpler than a typical Gitflow workflow. It is based on the idea that all feature development should take place in a branch instead of the `master` branch. It is also based on the idea that the `master` branch should be deployable at any time.
+
+![gitlabflow](./assets/gitlab_flow_environment_branches.png)
+
+### Trunk Based Development
+
+Trunk-based development is a branching strategy that in fact requires no branches but instead, developers integrate their changes into a shared trunk at least once a day. This shared trunk should be ready for release anytime.
+
+The main idea behind this strategy is that developers make smaller changes more frequently and thus the goal is to limit long-lasting branches and avoid merge conflicts as all developers work on the same branch. In other words, developers commit directly into the trunk without the use of branches.
+
+
+![trunkbaseddevelopment](./assets/trunk-based-development-branching-strategy.png)
+
