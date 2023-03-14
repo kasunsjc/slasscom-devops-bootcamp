@@ -1,0 +1,7 @@
+# create resource group
+
+az group create --name slasscom-bicep-rg --location westus
+
+# create storage account
+az deployment group create --resource-group slasscom-bicep-rg --template-file storage.bicep 
+
