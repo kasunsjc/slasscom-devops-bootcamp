@@ -178,7 +178,64 @@ adduser user_name
 ```bash
 usermod -a -G group_name user_name
 ```
- 
+
+## Introduction to user management
+
+### What is a Linux user?
+
+A user is a person who uses a computer or network service. Users generally use a system or a software product without the technical expertise required to fully understand it. Power users use advanced features of programs, though they are not necessarily capable of computer programming and system administration.
+
+### What is a Linux group?
+
+A group is a collection of users who have the same permissions to access files and directories. A group is a collection of users who have the same permissions to access files and directories. A group is a collection of users who have the same permissions to access files and directories.
+
+### What is a Linux user group?
+
+A user group is a collection of users who have the same permissions to access files and directories. A user group is a collection of users who have the same permissions to access files and directories. A user group is a collection of users who have the same permissions to access files and directories.
+
+### What is a Linux superuser?
+
+A superuser is a special user account used for system administration. A superuser is a special user account used for system administration. A superuser is a special user account used for system administration.
+
+### What is a Linux root user?
+
+The root user is the administrative user in a Linux environment that has very broad privileges. The root user is the administrative user in a Linux environment that has very broad privileges. The root user is the administrative user in a Linux environment that has very broad privileges.
+
+### Adding new users to a Linux system
+
+```bash
+adduser user_name
+```
+
+### Adding new users to a Linux system with a home directory
+
+```bash
+adduser --home /home/user_name user_name
+```
+
+### Adding new users to a Linux system with a home directory and a group
+
+```bash
+adduser --home /home/user_name --group user_name
+```
+
+### Adding new groups to a Linux system
+
+```bash
+addgroup group_name
+```
+
+### Adding a user to a group
+
+```bash
+usermod -a -G group_name user_name
+```
+
+### Adding a user to multiple groups
+
+```bash
+usermod -a -G group_name1,group_name2,group_name3 user_name
+```
 
 ## Introduction to Linux file permissions
 
