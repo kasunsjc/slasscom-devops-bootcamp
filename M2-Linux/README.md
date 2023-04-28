@@ -282,3 +282,21 @@ Linux file permissions are used to control access to files and directories. Each
 * r-------- - 400 (read only for user only)
 
 ![Linux file permissions](./assets/linux-file-permission.jpg)
+
+### Changing Linux file permissions
+
+```bash
+chmod 777 file_name
+```
+
+### Changing Linux file permissions recursively
+
+```bash
+chmod -R 777 directory_name
+```
+
+### Changing Linux file permissions for user, group, and other
+
+```bash
+chmod u=rwx,g=rwx,o=rwx file_name
+```
