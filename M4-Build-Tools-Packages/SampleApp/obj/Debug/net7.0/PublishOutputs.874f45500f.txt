@@ -1,0 +1,7 @@
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/SampleApp
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/appsettings.Development.json
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/appsettings.json
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/SampleApp.dll
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/SampleApp.deps.json
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/SampleApp.runtimeconfig.json
+/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/Freelance Projects/Training/SLASCOM/GitRepo/slasscom-devops-bootcamp/M4-Build-Tools-Packages/SampleApp/publish/SampleApp.pdb
